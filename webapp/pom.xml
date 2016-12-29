@@ -32,7 +32,7 @@
         <dependency>
             <groupId>org.meshy.chropro</groupId>
             <artifactId>chropro-client</artifactId>
-            <version>0.1.0</version>
+            <version>0.1.0-spinn3r</version>
         </dependency>
         <dependency>
             <groupId>com.sparkjava</groupId>
