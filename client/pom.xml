@@ -5,7 +5,7 @@
     <parent>
         <artifactId>chropro-parent</artifactId>
         <groupId>org.meshy.chropro</groupId>
-        <version>0.1.0</version>
+        <version>0.1.0-spinn3r</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
